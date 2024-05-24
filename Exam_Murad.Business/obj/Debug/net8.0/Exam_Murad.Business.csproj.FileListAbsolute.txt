@@ -1,0 +1,17 @@
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\bin\Debug\net8.0\Exam_Murad.Business.deps.json
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\bin\Debug\net8.0\Exam_Murad.Business.dll
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\bin\Debug\net8.0\Exam_Murad.Business.pdb
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\bin\Debug\net8.0\Exam_Murad.Core.dll
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\bin\Debug\net8.0\Exam_Murad.Data.dll
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\bin\Debug\net8.0\Exam_Murad.Data.pdb
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\bin\Debug\net8.0\Exam_Murad.Core.pdb
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\obj\Debug\net8.0\Exam_Murad.Business.csproj.AssemblyReference.cache
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\obj\Debug\net8.0\Exam_Murad.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\obj\Debug\net8.0\Exam_Murad.Business.AssemblyInfoInputs.cache
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\obj\Debug\net8.0\Exam_Murad.Business.AssemblyInfo.cs
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\obj\Debug\net8.0\Exam_Murad.Business.csproj.CoreCompileInputs.cache
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\obj\Debug\net8.0\Exam_Mur.E154CD4F.Up2Date
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\obj\Debug\net8.0\Exam_Murad.Business.dll
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\obj\Debug\net8.0\refint\Exam_Murad.Business.dll
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\obj\Debug\net8.0\Exam_Murad.Business.pdb
+C:\Users\ca.r215.13\source\repos\Exam_Murad\Exam_Murad.Business\obj\Debug\net8.0\ref\Exam_Murad.Business.dll

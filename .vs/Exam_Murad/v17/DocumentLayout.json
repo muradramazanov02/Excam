@@ -1,0 +1,514 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|solutionrelative:exam_murad\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|solutionrelative:exam_murad\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad\\areas\\admin\\views\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|solutionrelative:exam_murad\\areas\\admin\\views\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|solutionrelative:exam_murad\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|solutionrelative:exam_murad\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|solutionrelative:exam_murad\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|solutionrelative:exam_murad\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|solutionrelative:exam_murad\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|solutionrelative:exam_murad\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|solutionrelative:exam_murad\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|solutionrelative:exam_murad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D411E5E7-2A9F-4456-9E61-1F2A08C911D3}|Exam_Murad.Data\\Exam_Murad.Data.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.data\\repositoryconcrets\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D411E5E7-2A9F-4456-9E61-1F2A08C911D3}|Exam_Murad.Data\\Exam_Murad.Data.csproj|solutionrelative:exam_murad.data\\repositoryconcrets\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D411E5E7-2A9F-4456-9E61-1F2A08C911D3}|Exam_Murad.Data\\Exam_Murad.Data.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.data\\repositoryconcrets\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D411E5E7-2A9F-4456-9E61-1F2A08C911D3}|Exam_Murad.Data\\Exam_Murad.Data.csproj|solutionrelative:exam_murad.data\\repositoryconcrets\\animalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D411E5E7-2A9F-4456-9E61-1F2A08C911D3}|Exam_Murad.Data\\Exam_Murad.Data.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D411E5E7-2A9F-4456-9E61-1F2A08C911D3}|Exam_Murad.Data\\Exam_Murad.Data.csproj|solutionrelative:exam_murad.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19513DD4-06F3-46B7-947E-8FA7A70BF73A}|Exam_Murad.Core\\Exam_Murad.Core.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.core\\repositoryabstract\\igenricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19513DD4-06F3-46B7-947E-8FA7A70BF73A}|Exam_Murad.Core\\Exam_Murad.Core.csproj|solutionrelative:exam_murad.core\\repositoryabstract\\igenricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19513DD4-06F3-46B7-947E-8FA7A70BF73A}|Exam_Murad.Core\\Exam_Murad.Core.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.core\\repositoryabstract\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19513DD4-06F3-46B7-947E-8FA7A70BF73A}|Exam_Murad.Core\\Exam_Murad.Core.csproj|solutionrelative:exam_murad.core\\repositoryabstract\\ianimalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19513DD4-06F3-46B7-947E-8FA7A70BF73A}|Exam_Murad.Core\\Exam_Murad.Core.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19513DD4-06F3-46B7-947E-8FA7A70BF73A}|Exam_Murad.Core\\Exam_Murad.Core.csproj|solutionrelative:exam_murad.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19513DD4-06F3-46B7-947E-8FA7A70BF73A}|Exam_Murad.Core\\Exam_Murad.Core.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.core\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19513DD4-06F3-46B7-947E-8FA7A70BF73A}|Exam_Murad.Core\\Exam_Murad.Core.csproj|solutionrelative:exam_murad.core\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2639334A-9EFE-40D6-81AC-B04FC2096715}|Exam_Murad.Business\\Exam_Murad.Business.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.business\\service\\abstract\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2639334A-9EFE-40D6-81AC-B04FC2096715}|Exam_Murad.Business\\Exam_Murad.Business.csproj|solutionrelative:exam_murad.business\\service\\abstract\\ianimalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2639334A-9EFE-40D6-81AC-B04FC2096715}|Exam_Murad.Business\\Exam_Murad.Business.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.business\\service\\concrets\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2639334A-9EFE-40D6-81AC-B04FC2096715}|Exam_Murad.Business\\Exam_Murad.Business.csproj|solutionrelative:exam_murad.business\\service\\concrets\\animalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|solutionrelative:exam_murad\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19513DD4-06F3-46B7-947E-8FA7A70BF73A}|Exam_Murad.Core\\Exam_Murad.Core.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.core\\exam_murad.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19513DD4-06F3-46B7-947E-8FA7A70BF73A}|Exam_Murad.Core\\Exam_Murad.Core.csproj|solutionrelative:exam_murad.core\\exam_murad.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad\\exam_murad.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20297717-19D2-45F8-853A-1AAFA1B4F68B}|Exam_Murad\\Exam_Murad.csproj|solutionrelative:exam_murad\\exam_murad.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2639334A-9EFE-40D6-81AC-B04FC2096715}|Exam_Murad.Business\\Exam_Murad.Business.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.business\\exceptions\\imagecontentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2639334A-9EFE-40D6-81AC-B04FC2096715}|Exam_Murad.Business\\Exam_Murad.Business.csproj|solutionrelative:exam_murad.business\\exceptions\\imagecontentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2639334A-9EFE-40D6-81AC-B04FC2096715}|Exam_Murad.Business\\Exam_Murad.Business.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.business\\exceptions\\imagesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2639334A-9EFE-40D6-81AC-B04FC2096715}|Exam_Murad.Business\\Exam_Murad.Business.csproj|solutionrelative:exam_murad.business\\exceptions\\imagesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2639334A-9EFE-40D6-81AC-B04FC2096715}|Exam_Murad.Business\\Exam_Murad.Business.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2639334A-9EFE-40D6-81AC-B04FC2096715}|Exam_Murad.Business\\Exam_Murad.Business.csproj|solutionrelative:exam_murad.business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2639334A-9EFE-40D6-81AC-B04FC2096715}|Exam_Murad.Business\\Exam_Murad.Business.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.business\\exam_murad.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2639334A-9EFE-40D6-81AC-B04FC2096715}|Exam_Murad.Business\\Exam_Murad.Business.csproj|solutionrelative:exam_murad.business\\exam_murad.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D411E5E7-2A9F-4456-9E61-1F2A08C911D3}|Exam_Murad.Data\\Exam_Murad.Data.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.data\\exam_murad.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D411E5E7-2A9F-4456-9E61-1F2A08C911D3}|Exam_Murad.Data\\Exam_Murad.Data.csproj|solutionrelative:exam_murad.data\\exam_murad.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D411E5E7-2A9F-4456-9E61-1F2A08C911D3}|Exam_Murad.Data\\Exam_Murad.Data.csproj|c:\\users\\ca.r215.13\\source\\repos\\exam_murad\\exam_murad.data\\migrations\\20240524104704_createtableanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D411E5E7-2A9F-4456-9E61-1F2A08C911D3}|Exam_Murad.Data\\Exam_Murad.Data.csproj|solutionrelative:exam_murad.data\\migrations\\20240524104704_createtableanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Exam_Murad\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "Exam_Murad\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:21:58.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Exam_Murad\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Exam_Murad\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAAAH8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:07:54.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Exam_Murad\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Exam_Murad\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:06:47.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Exam_Murad\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Exam_Murad\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:06:28.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Exam_Murad\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Exam_Murad\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:14:55.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Exam_Murad\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Exam_Murad\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T13:15:22.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Exam_Murad\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Exam_Murad\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvy0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T12:39:43.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam_Murad\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Exam_Murad\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAAADMBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T12:38:33.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam_Murad\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Exam_Murad\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAAALcBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T10:07:42.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Areas\\Admin\\Views\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Exam_Murad\\Areas\\Admin\\Views\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Areas\\Admin\\Views\\DashboardController.cs",
+              "RelativeToolTip": "Exam_Murad\\Areas\\Admin\\Views\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:38:25.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Program.cs",
+              "RelativeDocumentMoniker": "Exam_Murad\\Program.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Program.cs",
+              "RelativeToolTip": "Exam_Murad\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:42:36.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Data\\RepositoryConcrets\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Exam_Murad.Data\\RepositoryConcrets\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Data\\RepositoryConcrets\\GenericRepository.cs",
+              "RelativeToolTip": "Exam_Murad.Data\\RepositoryConcrets\\GenericRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:48:39.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnimalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Data\\RepositoryConcrets\\AnimalRepository.cs",
+              "RelativeDocumentMoniker": "Exam_Murad.Data\\RepositoryConcrets\\AnimalRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Data\\RepositoryConcrets\\AnimalRepository.cs",
+              "RelativeToolTip": "Exam_Murad.Data\\RepositoryConcrets\\AnimalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:55:36.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Exam_Murad.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Exam_Murad.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:41:39.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenricRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Core\\RepositoryAbstract\\IGenricRepository.cs",
+              "RelativeDocumentMoniker": "Exam_Murad.Core\\RepositoryAbstract\\IGenricRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Core\\RepositoryAbstract\\IGenricRepository.cs",
+              "RelativeToolTip": "Exam_Murad.Core\\RepositoryAbstract\\IGenricRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:35:29.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAnimalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Core\\RepositoryAbstract\\IAnimalRepository.cs",
+              "RelativeDocumentMoniker": "Exam_Murad.Core\\RepositoryAbstract\\IAnimalRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Core\\RepositoryAbstract\\IAnimalRepository.cs",
+              "RelativeToolTip": "Exam_Murad.Core\\RepositoryAbstract\\IAnimalRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:39:09.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Exam_Murad.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Exam_Murad.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:29:50.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Core\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Exam_Murad.Core\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Core\\Models\\Animal.cs",
+              "RelativeToolTip": "Exam_Murad.Core\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:30:48.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Business\\Service\\Abstract\\IAnimalService.cs",
+              "RelativeDocumentMoniker": "Exam_Murad.Business\\Service\\Abstract\\IAnimalService.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Business\\Service\\Abstract\\IAnimalService.cs",
+              "RelativeToolTip": "Exam_Murad.Business\\Service\\Abstract\\IAnimalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:04:01.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AnimalService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Business\\Service\\Concrets\\AnimalService.cs",
+              "RelativeDocumentMoniker": "Exam_Murad.Business\\Service\\Concrets\\AnimalService.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Business\\Service\\Concrets\\AnimalService.cs",
+              "RelativeToolTip": "Exam_Murad.Business\\Service\\Concrets\\AnimalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:07:37.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Exam_Murad\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Exam_Murad\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-24T12:35:36.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Exam_Murad.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Core\\Exam_Murad.Core.csproj",
+              "RelativeDocumentMoniker": "Exam_Murad.Core\\Exam_Murad.Core.csproj",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Core\\Exam_Murad.Core.csproj",
+              "RelativeToolTip": "Exam_Murad.Core\\Exam_Murad.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T10:24:04.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Exam_Murad.csproj",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Exam_Murad.csproj",
+              "RelativeDocumentMoniker": "Exam_Murad\\Exam_Murad.csproj",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad\\Exam_Murad.csproj",
+              "RelativeToolTip": "Exam_Murad\\Exam_Murad.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T10:05:53.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ImageContentException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Business\\Exceptions\\ImageContentException.cs",
+              "RelativeDocumentMoniker": "Exam_Murad.Business\\Exceptions\\ImageContentException.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Business\\Exceptions\\ImageContentException.cs",
+              "RelativeToolTip": "Exam_Murad.Business\\Exceptions\\ImageContentException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:03:19.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exam_Murad.Business\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "Exam_Murad.Business\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:01:56.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ImageSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Business\\Exceptions\\ImageSizeException.cs",
+              "RelativeDocumentMoniker": "Exam_Murad.Business\\Exceptions\\ImageSizeException.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Business\\Exceptions\\ImageSizeException.cs",
+              "RelativeToolTip": "Exam_Murad.Business\\Exceptions\\ImageSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:02:32.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Exam_Murad.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Business\\Exam_Murad.Business.csproj",
+              "RelativeDocumentMoniker": "Exam_Murad.Business\\Exam_Murad.Business.csproj",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Business\\Exam_Murad.Business.csproj",
+              "RelativeToolTip": "Exam_Murad.Business\\Exam_Murad.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T10:59:35.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240524104704_CreateTableAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Data\\Migrations\\20240524104704_CreateTableAnimal.cs",
+              "RelativeDocumentMoniker": "Exam_Murad.Data\\Migrations\\20240524104704_CreateTableAnimal.cs",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Data\\Migrations\\20240524104704_CreateTableAnimal.cs",
+              "RelativeToolTip": "Exam_Murad.Data\\Migrations\\20240524104704_CreateTableAnimal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:47:04.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Exam_Murad.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Data\\Exam_Murad.Data.csproj",
+              "RelativeDocumentMoniker": "Exam_Murad.Data\\Exam_Murad.Data.csproj",
+              "ToolTip": "C:\\Users\\ca.r215.13\\source\\repos\\Exam_Murad\\Exam_Murad.Data\\Exam_Murad.Data.csproj",
+              "RelativeToolTip": "Exam_Murad.Data\\Exam_Murad.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T10:35:13.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
